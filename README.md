@@ -1,3 +1,6 @@
+About
+This project analyzes the relationship between Bitcoin Market Sentiment (Fear/Greed) and Trader Behavior & Performance on Hyperliquid. The goal is to identify behavioral patterns and propose actionable trading strategies based on sentiment shifts.
+
 Objective:
 To analyze how market sentiment influences trader performance and behavioral patterns.
 
